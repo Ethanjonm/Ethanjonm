@@ -3,7 +3,7 @@
 ---
 
 
-🎓 Recently graduated from a rigorous bootcamp at App Academy, I have honed my skills in coding, problem-solving, and quickly adapting to new technologies. I'm passionate about building scalable and robust applications, and I enjoy diving deep into code to find efficient solutions.
+🎓 Recently graduated from a rigorous bootcamp at App Academy, I have honed my skills in coding, problem-solving, and quickly adapting to new technologies.I enjoy diving deep into code to find efficient solutions.
 
 🛠️ Languages & Tools: JavaScript, React, Node.js, MongoDB, Express, Ruby.
 
