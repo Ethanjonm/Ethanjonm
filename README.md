@@ -1,4 +1,4 @@
-### 👋 Hello, Im Ethan Mercado!
+### Hello, Im Ethan Mercado!
 
 ---
 
