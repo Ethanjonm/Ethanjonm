@@ -7,8 +7,6 @@
 
 🛠️ Languages & Tools: JavaScript, React, Node.js, MongoDB, Express, Ruby, Python.
 
-🌱 Currently Learning: Always eager to learn, I'm constantly exploring new tools and technologies to enhance my skillset.
-
 🤝 Let's Connect: I'm open to collaborating on exciting projects and would love to engage with other like-minded developers.
 
 📫 How to reach me: ethanjonmercado@gmail.com
