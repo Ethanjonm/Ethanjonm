@@ -11,7 +11,7 @@
 
 🤝 Let's Connect: I'm open to collaborating on exciting projects and would love to engage with other like-minded developers.
 
-📫 How to reach me: Ethanjonmercado@gmail.com
+📫 How to reach me: ethanjonmercado@gmail.com
 
 
 
