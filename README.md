@@ -1,7 +1,7 @@
 ### Hello, Im Ethan J. Mercado   
                   
 ----                     
-                        
+                          
     
 🎓 Recently graduated from a rigorous bootcamp at App Academy, I have honed my skills in coding, problem-solving, and quickly adapting to new technologies.I enjoy diving deep into code to find efficient solutions.
 
