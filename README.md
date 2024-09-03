@@ -7,7 +7,7 @@
 
 🛠️ Languages & Tools: JavaScript, React, Node.js, MongoDB, Express, Ruby, Ruby on Rails, Python
 
-🤝 Let's Connect: I'm open to collaborating on exciting projects and would love to engage with other like-minded developers.
+🤝 Let's Connect: I'm open to collaborating on exciting projects and would love to engage with other like minded developers.
 
 📫 How to reach me: ethanjonmercado@gmail.com
 
